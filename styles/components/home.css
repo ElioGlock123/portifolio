@@ -167,3 +167,16 @@
     margin-left: 40px;
     width: 85%;    
 }
+
+.midias{
+    margin-top: 201px;
+    display: flex;
+    justify-content: space-evenly;
+    margin-left: 30px;
+}
+
+.copyright{
+    padding-top: 50px;
+    font-family: heebo;
+    margin-left: 70px;
+}
