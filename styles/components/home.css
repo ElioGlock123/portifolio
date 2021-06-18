@@ -36,9 +36,15 @@
     background-color: #FF6464;
     color:#FFFFFF;
     font-family: heebo;
-    text-align: center;
-    padding: 20px;
-    font-size: 20px;
-    margin: 0 auto;
+    text-align: center;    
+    font-size: 20px;  
+    width: 208px;
+    height: 35px;
+    margin-left: 80px;
+    margin-top: 27px;
+    border-radius: 2px;
+    padding-top: 15px;
+
 }
+
 
