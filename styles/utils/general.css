@@ -1,0 +1,16 @@
+.max-resolution{
+    display: none;
+}
+
+@media screen and (min-width: 500px){
+    
+    .max-resolution{
+        display: block;
+    }
+    
+    .content {
+        display: none;
+    }
+}
+
+
