@@ -1,5 +1,6 @@
 body{
     max-width:1152;
+    max-height: 1615;
 }
 
 .menu-bar{
@@ -62,3 +63,91 @@ body{
     padding-top: 15px;
 
 }
+/* card */
+
+.background{
+    margin-top: 88px;
+    background-color: rgba(237, 247, 250, 1);
+    height: 500px;
+    width: 100%;
+}
+
+.background__text{
+    padding-top: 7px;
+    font-family: Heebo;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 22px;
+    color: #21243D;
+    margin-left: 148px;
+}
+
+.teste{
+    position: absolute;
+    width:400px;
+    height: 255px;
+    background-color: aqua;
+    top:740px;
+    left: 148px;
+}
+
+.teste-1{
+    position: absolute;
+    width:400px;
+    height: 255px;
+    background-color: aqua;
+    top:740px;
+    left: 600px;
+}
+
+.title{
+    padding-left: 23px;
+    padding-top: 24px;
+    font-family: heebo;
+    font-weight:bold;
+    font-size: 22px;
+    color: #21243D;
+    line-height: 30px;
+    width: 300px;
+}
+
+.card-post__date{
+    display: flex;
+}
+
+.text__card-1{
+    padding-top: 20px;
+    font-family: heebo;
+    font-weight: 400;
+    font-size: 16px;
+    color: #21243D;
+    padding-left: 23px;
+}
+
+.card__img{
+    padding-top: 20px;
+    padding-left: 20px;
+}
+
+.text__card-2{
+    padding-top: 20px;
+    font-family: heebo;
+    font-weight: 400;
+    font-size: 16px;
+    color: #21243D;
+    padding-left: 40px;
+}
+
+.text__card-3{
+    padding-top: 20px;
+    font-family: heebo;
+    font-weight: 400;
+    font-size: 16px;
+    color: #21243D;
+    line-height: 23px;
+    padding-left: 23px;
+    width: 368px;
+}
+
+/* Works */
+
