@@ -68,7 +68,7 @@ body{
 .background{
     margin-top: 88px;
     background-color: rgba(237, 247, 250, 1);
-    height: 500px;
+    height: 350px;
     width: 100%;
 }
 
@@ -82,20 +82,20 @@ body{
     margin-left: 148px;
 }
 
-.teste{
+.blog{
     position: absolute;
     width:400px;
     height: 255px;
-    background-color: aqua;
+    background: #FFFFFF;
     top:740px;
     left: 148px;
 }
 
-.teste-1{
+.blog-1{
     position: absolute;
     width:400px;
     height: 255px;
-    background-color: aqua;
+    background: #FFFFFF;
     top:740px;
     left: 600px;
 }
@@ -151,3 +151,85 @@ body{
 
 /* Works */
 
+.Text__hub{
+    padding-top: 55px;
+    font-family: Heebo;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 22px;
+    color: #21243D;
+    margin-left: 148px;
+}
+
+.hub{
+    display: flex;
+    margin-left: 148px;
+    padding-top: 25px;
+}
+
+.hub-elements__title{
+    padding-left: 23px;
+
+    font-family: Heebo;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 30px;
+    line-height: 44px;
+    color: #21243D;
+    width: 341px;
+}
+
+.hub-elements__text{
+    padding-top: 10px;
+    display: flex;
+}
+
+.year {
+    padding-top: 5px;
+    font-family: heebo;
+    background: #142850;
+    border-radius: 16px;
+    width: 15%;
+    color: azure;
+    text-align: center;
+    padding-bottom: 2px;
+    margin-left: 20px;
+}
+
+
+.hub__text {
+    font-family: heebo;
+    margin-left: 40px;
+    padding-top: 3px;
+    color: #8695A4;
+}
+
+.hub__desc{
+    padding-top: 20px;
+    font-family: heebo;
+    font-weight: 400;
+    font-size: 16px;
+    color: #21243D;
+    line-height: 23px;
+    padding-left: 23px;
+    width: 368px;
+}
+
+.midias {
+    margin-top: 201px;
+    display: flex;
+    margin-left: 459px;
+}
+
+.copyright {
+    padding-top: 54px;
+    font-family: heebo;
+    margin-left: 464px;
+    padding-bottom: 54px;
+    font-size: 14px;
+    font-weight: normal;
+}
+
+.midias__img{
+    margin-right: 45px;
+}
