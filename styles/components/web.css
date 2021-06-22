@@ -1,0 +1,64 @@
+body{
+    max-width:1152;
+}
+
+.menu-bar{
+    display: flex;
+    font-family: Heebo;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    color: #000000;
+    margin-left: 856px;
+    margin-top: 27px;
+}
+
+
+.menu-bar__text{
+    margin-right: 25px;
+}
+
+.presentation {
+    width: 506px;
+    font-family: heebo;
+    font-size: 44px;
+    padding-top: 228px;
+    font-weight: bold;
+    padding-bottom: 23px;
+    line-height: 60px;
+    color: #21243D;
+    margin-left: 148px;
+}
+
+.text {
+    width: 500px;
+    font-family: heebo;
+    font-weight: 400;
+    font-size: 16px;
+    color: #21243D;
+    line-height: 23px;
+    margin-left: 148px;
+
+}
+
+.photo{
+    width: 246px;
+    position: absolute;
+    left: 700px;
+    top: 230px;
+}
+
+.btn-download {
+    background-color: #FF6464;
+    color: #FFFFFF;
+    font-family: heebo;
+    text-align: center;
+    font-size: 20px;
+    width: 208px;
+    height: 35px;
+    margin-left: 148px;
+    margin-top: 38px;
+    border-radius: 2px;
+    padding-top: 15px;
+
+}
